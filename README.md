@@ -2,6 +2,8 @@
 
 Olá!
 
+Copiado para tarefa da StackX.
+
 Este é seu primeiro contato com versionamento na StackX educação!
 
 O propósito dessa atividade é entender como funciona o processo de clone do git.
